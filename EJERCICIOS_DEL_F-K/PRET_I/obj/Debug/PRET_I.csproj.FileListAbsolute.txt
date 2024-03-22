@@ -1,0 +1,7 @@
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\bin\Debug\PRET_I.exe.config
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\bin\Debug\PRET_I.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\bin\Debug\PRET_I.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\obj\Debug\PRET_I.csproj.AssemblyReference.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\obj\Debug\PRET_I.csproj.CoreCompileInputs.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\obj\Debug\PRET_I.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_I\obj\Debug\PRET_I.pdb

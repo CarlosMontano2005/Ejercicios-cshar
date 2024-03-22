@@ -1,0 +1,14 @@
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\bin\Debug\PRET_F.exe.config
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\bin\Debug\PRET_F.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\bin\Debug\PRET_F.pdb
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\obj\Debug\PRET_F.csproj.AssemblyReference.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\obj\Debug\PRET_F.csproj.CoreCompileInputs.cache
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\obj\Debug\PRET_F.exe
+C:\Users\monta\OneDrive\Documentos\Visual Studio 2022\PRET_F\obj\Debug\PRET_F.pdb
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\bin\Debug\PRET_F.exe.config
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\bin\Debug\PRET_F.exe
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\bin\Debug\PRET_F.pdb
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\obj\Debug\PRET_F.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\obj\Debug\PRET_F.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\obj\Debug\PRET_F.exe
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\EJERCICIOS_DEL_F-K\PRET_F\obj\Debug\PRET_F.pdb
