@@ -1,0 +1,21 @@
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe.config
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.pdb
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.exe
+C:\Users\pc\OneDrive\Documentos\Visual Studio 2022\Proyectos\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.pdb
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe.config
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.pdb
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.AssemblyReference.cache
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.CoreCompileInputs.cache
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.exe
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.pdb
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe.config
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.exe
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\bin\Debug\Proyecto_PRE.pdb
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.exe
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Proyecto_PRE\obj\Debug\Proyecto_PRE.pdb

@@ -1,0 +1,14 @@
+Carlos Alumno, 1, 1, 1, 1, 1, Reprobado
+Carlos Alumno, 8, 8, 8, 8, 8, Aprobado
+Carlos Alumno, 7, 5, 1, 7, 5, Reprobado
+mario roberto, 10, 10, 5, 8, 8.25, Aprobado
+Mario, 5, 5, 3, 1, 3.5, Reprobado
+karla, 10, 10, 10, 10, 10, Aprobado
+Eduardo, 10, 10, 5, 4, 7.25, Aprobado
+diego, 5, 7, 1, 3, 4, Reprobado
+Juancho+, 7, 4, 5, 2, 4.5, Reprobado
+Mario, 10, 1, 5, 5, 5.25, Aprobado
+Monica, 10, 3, 7.5, 6.5, 6.75, Aprobado
+Laura Gimena, 10, 6, 5, 6, 6.75, Aprobado
+Charlie Brown, 10, 0, 0, 7, 4.25, Reprobado
+Mickey Mouse, 10, 5, 6, 8, 7.25, Aprobado

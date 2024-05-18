@@ -1,0 +1,6 @@
+Carlos Alumno, 1, 1, 1, 1, 1, Reprobado
+Carlos Alumno, 7, 5, 1, 7, 5, Reprobado
+Mario, 5, 5, 3, 1, 3.5, Reprobado
+diego, 5, 7, 1, 3, 4, Reprobado
+Juancho+, 7, 4, 5, 2, 4.5, Reprobado
+Charlie Brown, 10, 0, 0, 7, 4.25, Reprobado
