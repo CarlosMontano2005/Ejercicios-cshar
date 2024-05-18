@@ -7,6 +7,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Proyecto_PRE
 {
@@ -14,6 +15,10 @@ namespace Proyecto_PRE
     {
         static void Main(string[] args)
         {
+            // Configurar la configuración regional para usar el punto como separador decimal
+            CultureInfo cultureInfo = new CultureInfo("en-US");
+            CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
+            CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
             menu();
         }
         //creando estructura empleado
