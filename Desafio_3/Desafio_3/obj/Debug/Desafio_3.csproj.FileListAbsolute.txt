@@ -1,0 +1,21 @@
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.exe.config
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.exe
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.pdb
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.csproj.AssemblyReference.cache
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.exe
+C:\Users\monta\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.pdb
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.exe.config
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.exe
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\bin\Debug\Desafio_3.pdb
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.exe
+C:\Users\pc\OneDrive\Documentos\OneDrive\Escritorio\Proyecto_PRE\Desafio_3\obj\Debug\Desafio_3.pdb
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\bin\Debug\Desafio_3.exe.config
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\bin\Debug\Desafio_3.exe
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\bin\Debug\Desafio_3.pdb
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\obj\Debug\Desafio_3.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\obj\Debug\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\obj\Debug\Desafio_3.exe
+C:\Users\pc\OneDrive\Escritorio\Carpetas Comprimidas\Desafio_3\Desafio_3\obj\Debug\Desafio_3.pdb

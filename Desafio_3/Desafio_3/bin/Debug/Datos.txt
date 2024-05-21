@@ -1,0 +1,6 @@
+241661,Carlos Roberto Montano Hernandez ,Ingenieria En Computacion
+20210042,Roberto Carlos,Tecnico desarrollo de software
+20210051,Mario,Tecnico desarrollo de software
+1902005,Charlie,Ingenieria En Computacion
+202222,Mario Duran,Ingenieria En Computacion
+2005005,Eduardo Mendoza,Ingenieria En Mecatronica
